@@ -1,0 +1,28 @@
+body{
+	padding: 20px 40px;
+}
+header{
+	text-align: center;
+}
+
+hr{
+	width: 100%;
+}
+.row{
+	width: 100%;
+}
+.col{
+	width: 32%;
+	float:  left;
+}
+.date{
+	text-align: right;
+	font-style: italic;
+}
+.uni{
+	font-weight: bold;
+	text-align: left;
+}
+.deg{
+	text-align: center;
+}
